@@ -1,0 +1,12 @@
+body {
+    background-color: #3784db;
+    font-family: 'Lucida Console'; 
+    font-size: 30px;
+    color: white;
+}
+
+.auto_heading {
+    margin-top: 40px;
+    margin-left: 5px;
+}    
+

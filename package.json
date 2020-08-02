@@ -1,0 +1,15 @@
+{
+  "name": "autocomplete",
+  "version": "1.0.0",
+  "description": "An autocomplete example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shiwangi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
